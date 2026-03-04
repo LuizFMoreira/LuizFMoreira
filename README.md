@@ -241,6 +241,7 @@
 
 <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=LuizFMoreira&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
 <a href="https://github.com/LuizFMoreira" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github-LuizFernando-blue?style=for-the-badge" alt="Badge" loading="lazy" /></a>
+<a href="https://www.linkedin.com/in/luiz-fernando-batista-moreira-987834218/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-LuizFernando-blue?style=for-the-badge" alt="Badge" loading="lazy" /></a>
 
 <div>
 <details>
