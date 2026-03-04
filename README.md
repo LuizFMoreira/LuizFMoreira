@@ -242,6 +242,40 @@
 <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=LuizFMoreira&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
 <a href="https://github.com/LuizFMoreira" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github-LuizFernando-blue?style=for-the-badge" alt="Badge" loading="lazy" /></a>
 
+<div>
+<details>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Meus Dados do Spotify</summary>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=12155933145">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=12155933145" alt="Data Card for Spotify"/>
+</a>
+</details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12155933145&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=12155933145&count=10"/>
+</td>
+<td>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=12155933145" target="_blank">
+<img width="400px" height="270px" alt="Spotify Data Card" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=12155933145"/>
+</a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+
+
 
 <!--
 **LuizFMoreira/LuizFMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
