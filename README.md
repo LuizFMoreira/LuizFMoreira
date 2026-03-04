@@ -56,6 +56,10 @@
 </tr> 
 </table>
 </div>
+
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 35 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://aramuni.dev/">aramuni.dev</a>
+</div>
 <!--
 **LuizFMoreira/LuizFMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
