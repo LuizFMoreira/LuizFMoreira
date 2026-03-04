@@ -239,6 +239,8 @@
 </tr> 
 </table>
 
+<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=LuizFMoreira&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
+
 
 <!--
 **LuizFMoreira/LuizFMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
