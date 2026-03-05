@@ -269,6 +269,13 @@
 </div>
 
 <div align="center">
+  <br />
+  <img src="output.gif" alt="Terminal Animado Luiz Fernando" width="600px" />
+  <br />
+  <sub>Última atualização do sistema: 2026-03-05</sub>
+</div>
+
+<div align="center">
 
 ```text
  _                         ___                                       _        
