@@ -236,12 +236,6 @@
 
 </br>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohjs-0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
-
-</p>
-
 <div align="center">
 <table>
 <tr>
@@ -265,6 +259,13 @@
 </tr> 
 </table>
 </div>
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuizFMoreira-0&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+
+</p>
 
 <div align="center">
 
