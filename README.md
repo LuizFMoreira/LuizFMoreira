@@ -72,7 +72,7 @@
 - 📋 <b>Engenharia:</b> Interessado em <b>Engenharia de Requisitos</b> e metodologias ágeis (Scrum/Kanban) para entregas organizadas.<br />
 - ☕ <b>Cultura:</b> Movido a café, lógica de programação e grandes desafios técnicos.<br />
 - 🦊 <b>Identidade:</b> Cruzeirense apaixonado e focado em evoluir constantemente na capital mineira.<br />
-- 📬 <b>Vamos conversar?</b> <a href="mailto:bluizfernando720@gmail.com">bluizfernando720@gmail.com</a>
+- 📬 <b>Vamos conversar?</b> <a href="mailto:bluizfernando720@gmail.com">bluizfernando720@gmail.com</a><br />
 - !! <b>Veja meu Portfolio!!</b> <a href="https://portfoliodev-lime.vercel.app/"> https://portfoliodev-lime.vercel.app/ </a>
 </p>
 </div>
