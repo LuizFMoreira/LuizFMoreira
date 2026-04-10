@@ -26,7 +26,7 @@
 </tr> 
 <tr>
 <!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
-<td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://luizfernandodev.vercel.app/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://github.com/LuizFMoreira" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -73,7 +73,7 @@
 - ☕ <b>Cultura:</b> Movido a café, lógica de programação e grandes desafios técnicos.<br />
 - 🦊 <b>Identidade:</b> Cruzeirense apaixonado e focado em evoluir constantemente na capital mineira.<br />
 - 📬 <b>Vamos conversar?</b> <a href="mailto:bluizfernando720@gmail.com">bluizfernando720@gmail.com</a><br />
-- !! <b>Veja meu Portfolio!!</b> <a href="https://portfoliodev-lime.vercel.app/"> https://portfoliodev-lime.vercel.app/ </a>
+- !! <b>Veja meu Portfolio!!</b> <a href="https://luizfernandodev.vercel.app/"> https://portfoliodev-lime.vercel.app/ </a>
 </p>
 </div>
 </td>
