@@ -67,7 +67,7 @@
 <div align="justify">
 <p> 
 - ⛰️ <b>A Jornada:</b> Mineiro de Caratinga, mudei do interior para a capital e atualmente estou em Belo Horizonte para cursar Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.<br />
-- 🎯 <b>Objetivo:</b> Em busca da minha <b>primeira oportunidade de estágio</b> para aprender, colaborar e crescer em times de desenvolvimento.<br />
+- 🎯 <b>Objetivo:</b> Evoluir continuamente minhas <b>habilidades técnicas e soft skills</b> buscando me tornar um desenvolvedor cada vez mais robusto e preparado para os desafios reais do mercado.<br />
 - 💻 <b>Stack de Estudo:</b> Praticando o ecossistema <code>Java | Spring Boot</code> e <code>TypeScript | Next.js</code>.<br />
 - 📋 <b>Engenharia:</b> Interessado em <b>Engenharia de Requisitos</b> e metodologias ágeis (Scrum/Kanban) para entregas organizadas.<br />
 - ☕ <b>Cultura:</b> Movido a café, lógica de programação e grandes desafios técnicos.<br />
